@@ -1,0 +1,9 @@
+Flask==2.3.3
+flask-cors==4.0.0
+python-dotenv==1.0.0
+google-generativeai==0.6.0
+boto3==1.34.128
+requests==2.32.3
+#aws_wsgi==0.2.7
+mangum>=0.17.0
+asgiref>=3.8.1
